@@ -1,4 +1,4 @@
-## AI Dynamic Text Reader::
+## AI Dynamic Text Reader:
 This is a simple dynamic text reader based on Artificial intelligence which made with Python. It's able to change the text size depending on face and camera distance.
 
 
